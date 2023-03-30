@@ -1,0 +1,3 @@
+{
+    "files": ["SendSetting.qml","SendWindow.qml","ProtocolSetting.qml","RecieveWindow.qml","CommunicationSetting.qml","main.py","main.qml"]
+}
